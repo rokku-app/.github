@@ -2,11 +2,11 @@
   <img src="logo.png" alt="Rokku logo" width="120" />
 
   # Rokku
-
-  Free and open source manga reader for Android.
 </div>
 
 ---
+
+### About Rokku
 
 Rokku is a fork of [Yokai](https://github.com/null2264/yokai), which itself
 builds on [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) and
